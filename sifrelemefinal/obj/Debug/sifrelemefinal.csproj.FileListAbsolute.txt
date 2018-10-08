@@ -1,0 +1,28 @@
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\bin\Debug\sifrelemefinal.exe.config
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\bin\Debug\sifrelemefinal.exe
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\bin\Debug\sifrelemefinal.pdb
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.Form1.resources
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.Properties.Resources.resources
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.csproj.GenerateResource.Cache
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.exe
+c:\users\eyyub\documents\visual studio 2015\Projects\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.pdb
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.csprojResolveAssemblyReference.cache
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\bin\Debug\sifrelemefinal.exe.config
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\obj\Debug\sifrelemefinal.exe
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\obj\Debug\sifrelemefinal.pdb
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\bin\Debug\sifrelemefinal.exe
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\bin\Debug\sifrelemefinal.pdb
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\obj\Debug\sifrelemefinal.csprojResolveAssemblyReference.cache
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\obj\Debug\sifrelemefinal.Form1.resources
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\obj\Debug\sifrelemefinal.Properties.Resources.resources
+C:\Users\Eyyub\Documents\Visual Studio 2015\Projects\sifrelemefinall2\sifrelemefinal\obj\Debug\sifrelemefinal.csproj.GenerateResource.Cache
+E:\üni\sifrelemefinal\sifrelemefinal\bin\Debug\sifrelemefinal.exe.config
+E:\üni\sifrelemefinal\sifrelemefinal\bin\Debug\sifrelemefinal.exe
+E:\üni\sifrelemefinal\sifrelemefinal\bin\Debug\sifrelemefinal.pdb
+E:\üni\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.csprojResolveAssemblyReference.cache
+E:\üni\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.Form1.resources
+E:\üni\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.Properties.Resources.resources
+E:\üni\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.csproj.GenerateResource.cache
+E:\üni\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.csproj.CoreCompileInputs.cache
+E:\üni\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.exe
+E:\üni\sifrelemefinal\sifrelemefinal\obj\Debug\sifrelemefinal.pdb
